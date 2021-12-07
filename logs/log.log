@@ -4,3 +4,9 @@
 22:44:21.633 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
 22:44:21.664 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
 22:44:21.664 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
+22:48:38.142 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.50 x 3---Total: 4.50
+22:48:38.161 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.78 x 1---Total: 1000.78
+22:48:38.192 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:48:38.192 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:48:38.208 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:48:38.208 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
