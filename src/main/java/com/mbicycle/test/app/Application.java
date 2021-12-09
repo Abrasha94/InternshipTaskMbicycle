@@ -6,12 +6,19 @@ import com.mbicycle.test.validation.Valid;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class Application {
+import java.sql.SQLException;
 
+import static com.mbicycle.test.service.DataBaseService.*;
+
+
+public class Application {
 
     private static final Logger LOG = LogManager.getLogger(Application.class);
 
     public static void main(String... args) throws ValidateException {
+
+        createDB();
+        fillDB();
 
         if (Valid.ProductValid(args[0])) {
             Calculator.INSTANCE.calculateCost(args[0]);

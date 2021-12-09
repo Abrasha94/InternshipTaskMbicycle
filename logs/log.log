@@ -10,3 +10,253 @@
 22:48:38.192 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
 22:48:38.208 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
 22:48:38.208 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
+19:29:05.838 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.50 x 3---Total: 4.50
+19:29:05.859 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.78 x 1---Total: 1000.78
+19:29:05.889 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+19:29:05.889 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+19:29:05.920 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+19:29:05.920 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
+20:40:42.986 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+20:40:42.986 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.78 x 1---Total: 1000.78
+20:40:42.986 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+20:40:42.986 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+20:40:42.986 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+20:40:42.986 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
+20:41:05.922 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+20:41:05.922 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.78 x 1---Total: 1000.78
+20:41:05.922 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+20:41:05.922 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+20:41:05.922 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+20:41:05.922 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
+20:42:16.263 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+20:42:16.263 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.78 x 1---Total: 1000.78
+20:42:16.263 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+20:42:16.263 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+20:42:16.263 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 20%
+20:42:16.263 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 804.224
+20:42:30.263 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+20:42:30.265 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.78 x 1---Total: 1000.78
+20:42:30.265 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+20:42:30.265 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+20:42:30.265 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+20:42:30.265 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.96
+20:49:07.383 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+20:49:07.383 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+20:49:07.383 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+20:49:07.383 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+20:49:07.383 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+20:49:07.383 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.9675
+21:02:01.353 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+21:02:01.353 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:02:01.353 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:02:01.353 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:02:01.353 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 10%
+21:02:01.353 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 904.761
+21:02:26.701 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+21:02:26.701 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 10%
+21:02:26.701 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 4.05
+21:02:59.746 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.5 x 3---Total: 4.5
+21:02:59.746 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:02:59.746 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:02:59.746 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:02:59.746 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: milk---Price: 2.4 x 1---Total: 2.4
+21:02:59.746 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 10%
+21:02:59.746 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 906.921
+21:13:53.758 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:13:53.773 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:15:10.893 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:15:10.925 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:18:41.954 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:18:41.970 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:26:59.015 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:26:59.031 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 21 do not found
+21:28:52.754 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: TV
+21:28:52.754 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 2---Total: 2001.58
+21:28:52.754 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.4 x 1---Total: 1.4
+21:28:52.754 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:28:52.754 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:28:52.754 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: milk---Price: 2.4 x 1---Total: 2.4
+21:28:52.754 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 10%
+21:28:52.754 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 1804.842
+21:29:32.315 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: TV
+21:29:32.315 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 2---Total: 2001.58
+21:29:32.315 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:29:32.315 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:29:32.315 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:29:32.315 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: milk---Price: 2.4 x 1---Total: 2.4
+21:29:32.315 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:29:32.315 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 2253.5775
+21:30:25.238 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.4 x 3---Total: 4.2
+21:30:25.248 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:30:25.250 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:30:25.250 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:30:25.250 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:30:25.250 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.7425
+21:31:11.762 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.4 x 3---Total: 4.2
+21:31:11.762 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:31:11.762 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:31:11.762 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:31:11.762 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:31:11.762 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.7425
+21:36:06.503 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:36:06.518 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:37:02.036 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:37:02.067 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:38:06.055 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:38:06.071 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:39:05.191 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:39:05.223 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:39:30.916 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:39:30.932 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:39:45.590 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:39:45.603 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:42:30.199 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:42:30.217 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:42:44.023 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:42:44.043 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:44:05.372 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:44:05.390 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:44:29.542 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:44:29.560 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:45:20.637 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:45:20.654 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:45:30.343 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:45:30.361 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:46:27.357 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:46:27.376 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:47:45.918 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:47:45.935 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:47:58.242 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:47:58.260 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:49:46.116 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:49:46.134 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:49:59.158 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:49:59.161 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:49:59.161 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:49:59.161 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5 x 0---Total: 0
+21:49:59.166 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:49:59.166 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:51:56.624 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:51:56.627 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:51:56.628 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:51:56.628 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+21:51:56.629 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:51:56.629 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:52:54.385 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:52:54.407 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:53:11.169 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:53:11.184 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:53:16.506 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:53:16.521 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:53:21.014 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:53:21.029 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:53:25.325 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:53:25.341 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:53:31.753 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:53:31.760 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:53:31.760 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:53:31.760 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+21:53:31.760 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:53:31.760 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:53:42.586 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:53:42.602 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+21:53:48.800 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:53:48.800 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:53:48.800 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:53:48.800 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+21:53:48.800 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:53:48.800 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:54:19.462 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:54:19.477 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:54:19.477 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:54:19.477 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+21:54:19.477 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:54:19.477 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:56:57.898 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:56:57.898 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:56:57.898 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:56:57.898 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+21:56:57.898 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:56:57.898 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:57:05.113 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+21:57:05.129 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+21:57:05.129 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+21:57:05.129 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+21:57:05.129 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+21:57:05.129 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+21:58:31.208 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+21:58:31.224 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:00:35.028 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:00:35.059 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:00:40.832 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+22:00:40.832 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:00:40.832 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:00:40.832 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+22:00:40.832 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:00:40.832 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:02:48.614 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1 x 3---Total: 3
+22:02:48.614 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:02:48.614 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:02:48.614 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.0 x 0---Total: 0.0
+22:02:48.614 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:02:48.614 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:03:14.504 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.00 x 3---Total: 3.00
+22:03:14.510 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:03:14.510 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:03:14.510 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:03:14.510 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:03:14.510 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:03:30.868 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:03:30.883 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:03:37.809 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:03:37.824 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:04:10.420 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:04:10.438 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:05:00.713 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:05:00.731 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:05:19.701 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:05:19.719 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:05:24.470 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.00 x 3---Total: 3.00
+22:05:24.473 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:05:24.473 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:05:24.473 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:05:24.474 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:05:24.474 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:05:35.514 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.00 x 3---Total: 3.00
+22:05:35.517 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:05:35.517 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:05:35.517 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:05:35.518 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:05:35.518 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:05:43.483 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.00 x 3---Total: 3.00
+22:05:43.486 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:05:43.487 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:05:43.487 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:05:43.487 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:05:43.488 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:06:03.475 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.00 x 3---Total: 3.00
+22:06:03.478 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:06:03.479 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:06:03.479 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:06:03.480 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:06:03.480 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 752.8425
+22:06:21.804 ERROR  com.mbicycle.test.app.Application.fillDB() @60 - Error when fill database
+22:06:21.822 ERROR  com.mbicycle.test.dao.CommonDao.readById() @30 - Id = 1 do not found
+22:06:48.701 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.40 x 3---Total: 4.20
+22:06:48.704 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:06:48.705 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:06:48.705 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:06:48.706 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:06:48.706 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.7425
+22:06:55.013 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.40 x 3---Total: 4.20
+22:06:55.016 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:06:55.016 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:06:55.016 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:06:55.017 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:06:55.017 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.7425
+22:08:26.297 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: bread---Price: 1.40 x 3---Total: 4.20
+22:08:26.300 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: TV---Price: 1000.79 x 1---Total: 1000.79
+22:08:26.301 WARN   com.mbicycle.test.service.Calculator.calculateCost() @35 - Not enough product: cheese
+22:08:26.301 INFO   com.mbicycle.test.service.Calculator.calculateCost() @39 - Product: cheese---Price: 5.00 x 0---Total: 0.00
+22:08:26.302 WARN   com.mbicycle.test.service.Calculator.calculateTotalPrice() @51 - Discount: 25%
+22:08:26.302 INFO   com.mbicycle.test.service.Calculator.calculateTotalPrice() @53 - Total price: 753.7425

@@ -6,25 +6,19 @@ import org.apache.logging.log4j.Logger;
 
 import java.sql.*;
 
+import static com.mbicycle.test.service.DataBaseService.*;
+
 public abstract class CommonDao<T extends Entity> implements EntityDao<T> {
 
     private static final Logger LOG = LogManager.getLogger(CommonDao.class);
 
-    private static final String ID_FIELD_NAME = "id";
-
     protected Connection connection;
-
-    @Override
-    public T create(T entity) {
-        //todo: realization
-        return null;
-    }
 
     @Override
     public T readById(Integer id) {
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/main", "root", "root");
+            Class.forName(DB_DRIVER);
+            connection = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
         } catch (SQLException | ClassNotFoundException e) {
             e.printStackTrace();
         }
@@ -39,18 +33,6 @@ public abstract class CommonDao<T extends Entity> implements EntityDao<T> {
             e.printStackTrace();
         }
         return null;
-    }
-
-
-    @Override
-    public T update(T entity) {
-        // TODO: realization
-        return null;
-    }
-
-    @Override
-    public void delete(Integer id) {
-        // TODO: realization
     }
 
     protected abstract T fillEntity(ResultSet resultSet) throws SQLException;
